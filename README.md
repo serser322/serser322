@@ -3,7 +3,7 @@
 > *The code works ... why?* 
  
 
-I'm Wei Chiao Chen. Welcome to my Github.😄
+I'm Wei Chiao Chen. Welcome to my Github.
 
 Let's enjoy coding ...... at 3:00 am (ಥ_ಥ)
 
